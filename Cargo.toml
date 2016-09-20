@@ -1,0 +1,6 @@
+[package]
+name = "cargo-ulc"
+version = "0.1.0"
+authors = ["caasi Huang <caasi.igd@gmail.com>"]
+
+[dependencies]
